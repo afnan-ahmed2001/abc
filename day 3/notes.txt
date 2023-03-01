@@ -1,0 +1,5 @@
+//div[@id='modal']//p[text()='Close']
+//p[contains(.,'Close')]
+
+get started - >Close screenshot (docs)
+wdio configuration
